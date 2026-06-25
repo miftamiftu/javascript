@@ -1,15 +1,17 @@
 console.log("My name is mifta");
 console.log("i want to learn english");
 
-name="Mifta";
+let name="Mifta";
 console.log(name);
 
 
-age=24;
-price=34.56;
+let age=24;
+ let price=34.56;
 console.log(age);
 console.log(price);
-x=null;
+let x=null;
 console.log(x);
-y=undefined;
+let y=undefined;
 console.log(y);
+let isFollow=true;
+console.log(isFollow);
