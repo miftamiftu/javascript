@@ -45,3 +45,9 @@ const profile={
 };
 console.log(profile);
 console.log(typeof profile ["isFollow"]);
+
+
+document.getElementById("title").innerText = "<h1>Hello</h1>";
+console.log(document.getElementById("title"));
+document.getElementById("mif").innerHTML = "<h1>Hello</h1>";
+console.log(document.getElementById("mif"));
