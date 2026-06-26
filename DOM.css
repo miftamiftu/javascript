@@ -1,0 +1,12 @@
+.Head{
+    color:blue;
+}
+button:hover{
+    background-color: green;
+}
+body{
+    background-color: aquamarine;
+}
+body:hover{
+    background-color: red;
+}
